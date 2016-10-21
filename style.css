@@ -1,0 +1,19 @@
+#Home {
+height:auto;
+}
+
+#Work{
+height:auto;
+}
+#About{
+height:auto;
+}
+#Contact{
+height:auto;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+}
